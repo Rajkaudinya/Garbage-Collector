@@ -1,4 +1,4 @@
-# Odoo-hackathon
+# SIH 2024
 
 
 # Garbage Management Application
