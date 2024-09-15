@@ -49,7 +49,7 @@ This application is designed to tackle public litter by providing an efficient g
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/agrahjain786/Odoo-hackathon
+git clone https://github.com/Rajkaudinya/Garbage-Collector.git
    ```
 
    cd into frontend and then into backend and follow the scripts in package.json
